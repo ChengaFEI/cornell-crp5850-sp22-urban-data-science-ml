@@ -1,0 +1,10 @@
+### Python ###
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+
+### Mac OS ###
+# General
+.DS_Store
+
